@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>cancel-button-blue-hi.png</file>
+        <file>continue_button.png</file>
+        <file>continue-button.jpg</file>
+        <file>desktop.ini</file>
+        <file>image_Lable.png</file>
+        <file>image_passwork.jpg</file>
+        <file>Image_result _Fail.jpg</file>
+        <file>image_result_win.jpg</file>
+        <file>image_result2.jpg</file>
+        <file>image_watting.gif</file>
+        <file>ImageWatting.gif</file>
+        <file>ok-button-hi.png</file>
+    </qresource>
+</RCC>
